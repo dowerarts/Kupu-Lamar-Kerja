@@ -1,10 +1,10 @@
 # Kupu-Lamar-Kerja
-Install Nodejs
+Install Nodejs<br>
 http://nodejs.org
 
 Step
 
-1.) Extract Rar Kedalam Folder\n
-2.) Buka CMD Folder Tersebut\n
-3.) ketik npm i\n
-4.) ketik node kupu\n
+1.) Extract Rar Kedalam Folder<br>
+2.) Buka CMD Folder Tersebut<br>
+3.) ketik npm i<br>
+4.) ketik node kupu<br>
