@@ -8,3 +8,5 @@ Step
 2.) Buka CMD Folder Tersebut<br>
 3.) ketik npm i<br>
 4.) ketik node kupu<br>
+
+Thanks For <b>Janu Yoga</b> & <b>Membership</b>
