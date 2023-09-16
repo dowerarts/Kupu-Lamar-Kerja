@@ -10,3 +10,5 @@ Step
 4.) ketik node kupu<br>
 
 Thanks For <b>Janu Yoga</b> & <b>Membership</b>
+
+Donate : 081280608095 OVO & Dana
