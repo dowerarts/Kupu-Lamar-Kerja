@@ -1,0 +1,8 @@
+jakarta timur
+jakarta pusat
+jakarta barat
+jakarta selatan
+jakarta utara
+bekasi
+Bogor
+depok

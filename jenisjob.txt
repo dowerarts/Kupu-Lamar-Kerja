@@ -1,0 +1,8 @@
+programmer
+gudang
+admin
+komputer
+developer
+supervisor
+packer
+picker
