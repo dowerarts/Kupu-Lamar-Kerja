@@ -4,7 +4,7 @@ http://nodejs.org
 
 Step
 
-1.) Extract Rar Kedalam Folder
-2.) Buka CMD Folder Tersebut
-3.) ketik npm i
-4.) ketik node kupu
+1.) Extract Rar Kedalam Folder\n
+2.) Buka CMD Folder Tersebut\n
+3.) ketik npm i\n
+4.) ketik node kupu\n
