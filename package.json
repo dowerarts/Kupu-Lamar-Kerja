@@ -1,7 +1,18 @@
 {
   "dependencies": {
-    "bs58": "^5.0.0",
-    "colors": "^1.4.0",
-    "tweetnacl": "^1.0.3"
+    "axios": "^1.2.1",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.8",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "progress": "^2.0.3",
+    "puppeteer": "^19.7.1",
+    "random-name": "^0.1.2",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "table": "^6.8.1"
   }
 }
