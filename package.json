@@ -9,7 +9,6 @@
     "node-fetch": "^2.6.0",
     "path": "^0.12.7",
     "progress": "^2.0.3",
-    "puppeteer": "^19.7.1",
     "random-name": "^0.1.2",
     "readline-sync": "^1.4.10",
     "request": "^2.88.2",
